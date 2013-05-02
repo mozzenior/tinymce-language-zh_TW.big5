@@ -1,0 +1,16 @@
+tinyMCE.addI18n('zh_tw.big5.searchreplace_dlg',{
+searchnext_desc:"繼續尋找",
+notfound:"尋找完畢，未發現符合的字串。",
+search_title:"尋找",
+replace_title:"尋找/取代",
+allreplaced:"所有符合的字串均已替換",
+findwhat:"尋找目標",
+replacewith:"取代為",
+direction:"方向",
+up:"向上",
+down:"向下",
+mcase:"區分大小寫",
+findnext:"尋找下一個",
+replace:"替換",
+replaceall:"全部替換"
+});
